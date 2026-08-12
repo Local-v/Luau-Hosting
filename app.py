@@ -120,7 +120,7 @@ def verify_human():
 
 # ─── 설정 ────────────────────────────────────────────────
 ADMIN_PASSWORD = "exploit111"
-DISCORD_URL = "https://discord.gg/McCGMv9qwk"
+DISCORD_URL = "https://discord.gg/m3VKRyweHC"
 
 # 서버 저장 파일 (.luau 확장자 사용 안 함)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
